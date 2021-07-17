@@ -31,7 +31,7 @@ make all
 python main.py
 ```
 
-7. Now deploy the app, including selecting environment's region
+7. To deploy the app (you'll need to select a region):
 
 ```
 gcloud app deploy
@@ -39,7 +39,7 @@ gcloud app deploy
 
 8. Set up a continuous delivery trigger from GitHub to Cloud Build by following these instructions:
 
-- [Google Quickstart: Automate App Engine deployments with Cloud Build](https://cloud.google.com/source-repositories/docs/quickstart-triggering-builds-with-source-repositories)
+    - [Google Quickstart: Automate App Engine deployments with Cloud Build](https://cloud.google.com/source-repositories/docs/quickstart-triggering-builds-with-source-repositories)
 
 ### Video tutorials
 
