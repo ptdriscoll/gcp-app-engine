@@ -1,5 +1,5 @@
 # gcp-app-engine
-A continous delivery pipeline to auto-deploy a Flask web application on Google App Engine.
+A continuous delivery pipeline to auto-deploy a Flask web application on Google App Engine.
 
 1. Start or open a Google Cloud Platform project
 
