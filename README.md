@@ -19,10 +19,10 @@ cd gcp-app-engine
 4. Create and source the Python virtual environment:
 
 ```
-virtualenv ~/.venv
+virtualenv ~/.gcp-app-engine
 ```
 ```
-source ~/.venv/bin/activate
+source ~/.gcp-app-engine/bin/activate
 ```
 
 5. Install packages:
