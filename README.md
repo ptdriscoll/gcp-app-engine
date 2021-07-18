@@ -11,14 +11,18 @@ A continuous delivery pipeline to auto-deploy a Flask web application on Google 
 
 ```
 git clone https://github.com/ptdriscoll/gcp-app-engine.git
+```
+```
 cd gcp-app-engine
 ```
 
 4. Create and source the Python virtual environment:
 
 ```
-virtualenv ~/.gcp-app-engine
-source ~/.gcp-app-engine/bin/activate
+virtualenv ~/.venv
+```
+```
+source ~/.venv/bin/activate
 ```
 
 5. Install packages:
