@@ -47,6 +47,16 @@ gcloud app deploy
 
     - [Google Quickstart: Automate App Engine deployments with Cloud Build](https://cloud.google.com/source-repositories/docs/quickstart-triggering-builds-with-source-repositories)
 
+9. View application in a web browser:
+``` 
+gcloud app browse
+```
+
+10. Append echo and some value to url to see app output:
+```
+/echo/<something>
+```
+
 ### Video tutorials
 
 - [GCP Google App Engine Continuous Delivery from Zero](https://www.coursera.org/lecture/cloud-computing-foundations-duke/gcp-google-app-engine-continuous-delivery-from-zero-7DFdK)
