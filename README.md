@@ -52,10 +52,14 @@ gcloud app deploy
 gcloud app browse
 ```
 
-10. Append echo and some value to url to see app output:
+10. Append "echo" and some value to url to see app output:
 ```
 /echo/<something>
 ```
+
+11. Cleanup project to avoid incurring charges:
+
+    - [Cleaning Up](https://cloud.google.com/appengine/docs/standard/python3/building-app/cleaning-up)
 
 ### Video tutorials
 
