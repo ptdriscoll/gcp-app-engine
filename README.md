@@ -52,6 +52,8 @@ gcloud app deploy
 gcloud app browse
 ```
 
+    -If you get message, "Did not detect your browser," use link on App Engine Dashboard (top right)
+
 10. Append "echo" and some value to url to see app output:
 ```
 /echo/<something>
