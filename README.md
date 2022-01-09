@@ -52,14 +52,14 @@ gcloud app deploy
 gcloud app browse
 ```
 
-    -If you get message, "Did not detect your browser," use link on App Engine Dashboard (top right)
+10. If you get the message, "Did not detect your browser," then use link provided on the App Engine Dashboard (at top of the page)
 
-10. Append "echo" and some value to url to see app output:
+11. Append "echo" and some value to url to see app output:
 ```
 /echo/<something>
 ```
 
-11. Cleanup project to avoid incurring charges:
+12. Cleanup project to avoid incurring charges:
 
     - [Cleaning Up](https://cloud.google.com/appengine/docs/standard/python3/building-app/cleaning-up)
 
